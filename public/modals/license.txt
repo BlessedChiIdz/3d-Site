@@ -1,0 +1,11 @@
+Model Information:
+* title:	Illyasviel von Einzbern
+* source:	https://sketchfab.com/3d-models/illyasviel-von-einzbern-f539592bee0c4b08952bf198742f4a62
+* author:	asifsaj (https://sketchfab.com/asifsaj)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Illyasviel von Einzbern" (https://sketchfab.com/3d-models/illyasviel-von-einzbern-f539592bee0c4b08952bf198742f4a62) by asifsaj (https://sketchfab.com/asifsaj) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
